@@ -1,0 +1,55 @@
+{
+    "Karnataka": {
+        "thingsGoingWell": [
+            "Irrigation utilization: Karnataka utilizes ~94% of the potential created by its 107 MMI projects",
+            "On-farm use: The state has > 90% of its cultivated area as per agro-climatic coning and the second highest micro-irrigation coverage in the country",
+            "Urban water: The state supplies water to ~86% of the urban population, charges ~60% of them, and treats ~60% of its urban waste water"
+        ],
+        "thingsToImprove": [
+            "Groundwater rejuvenation: Only 6% of over-exploited and critical wells have risen in level, possibly due to <20% being covered by recharge infrastructure",
+            "Drinking water in rural areas: More than two-thirds of rural areas do not have full access to drinking water"
+        ],
+        "averageRainfall": "1cm",
+        "averageWaterLevel": "1 Litre"
+    },
+    "Maharashtra": {
+        "thingsGoingWell": [
+            "Surface water restoration: the state has restored ~80% of the irrigation potential of identified bodies",
+            "On-farm use: The state has segregated ~60% of power feeders and has one of the highest micro-irrigation coverage rates in India (at 32-47%)",
+            "Urban water: the state charges ~60% of households for water supply and treats ~60% of its waste water"
+        ],
+        "thingsToImprove": [
+            "Irrigation utilization and O&M: the state has the highest MMI projects in the country (391) but has assessed only ~40% for utilization gaps and has one od the lowest O&M expenditures",
+            "Participatory irrigation: Maharashtra involves WUAs in the O&M of only ~26% irrigation assets and they are allowed to retain only 6% of irrigation fees"
+        ],
+        "averageRainfall": "2cm",
+        "averageWaterLevel": "2 Litre"
+    },
+    "Rajasthan": {
+        "thingsGoingWell": [
+            "Surface water restoration: The state has restored ~80% of the irrigation potential of identified bodies largely through community-manages ponds and tanks",
+            "Participatory irrigation: ~75% of irrigated area is maintained by WUAs, which retain ~95% of fees",
+            "Policy & data: the state has enacted conservation legislation, charges ~73% of urban households for water, and has set up an integrated data center"
+        ],
+        "thingsToImprove": [
+            "Irrigation utilization and O&M: The state has asserted only 14% of its 107 MMI projects for utilization gaps and has the lowest O&M expenditure in India",
+            "Rural drinking water: A 44%, access rates for rural habitations are one of the lowest in the country, and there has been no improvement in water quality"
+        ],
+        "averageRainfall": "Same, no info",
+        "averageWaterLevel": "Not available"
+    },
+    "Haryana": {
+        "thingsGoingWell": [
+            "Irrigation maintenance: The sate has he highest per unit expenditure on irrigation O&M and has lined almost all of its suitable canals",
+            "Drinking water access: Haryana provides water to >90% of its rural habitations and urban population",
+            "Waste water treatment: Haryana’s treatment of 95% of is urban waste water is the highest in the country"
+        ],
+        "thingsToImprove": [
+            "Groundwater restoration: None of the identifies wells in the state have improved, possible due to a lack of recharge infrastructure",
+            "Water harvesting: Haryana has constructed only 40% of its target of water harvesting structures",
+            "On-farm use: The state needs to provide information on agricultural indicators, espically given its position as a large output producer"
+        ],
+        "averageRainfall": "1cm",
+        "averageWaterLevel": "1 Litre"
+    }
+}

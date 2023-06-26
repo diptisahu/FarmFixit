@@ -1,0 +1,5 @@
+---
+applications:
+ - name: cognitivewarriors-farm-fixit-hackathon
+   random-route: false
+   memory: 256M

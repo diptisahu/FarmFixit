@@ -1,0 +1,7 @@
+---
+applications:
+- name: farm-fixit-api-server
+  timeout: 180
+  command: python app.py
+  random-route: false
+  memory: 512MB
